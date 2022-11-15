@@ -27,3 +27,4 @@ msgstr ""
 "Les modules décrits dans ce chapitre fournissent une large collection de "
 "services relatifs à l'interpréteur Python et son interaction avec son "
 "environnement. En voici un survol :"
+# Amine Benyahya 
